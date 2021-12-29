@@ -5,3 +5,8 @@ x = input("x: ")
 # here we need to convert the string1 to a number and
 y = int(x) + 1
 print(f"x is: {x}, y is: {y}")
+
+# Falsy
+# " "
+# 0
+# None
