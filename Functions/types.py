@@ -6,7 +6,7 @@ def greet(name):
     print(f"Hello {name}!")
 
 
-greet("Meow")
+greet("NISB Members")
 
 
 def get_greeting(name):
