@@ -25,6 +25,7 @@ if x_factor == None:
     pass
 
 """
-# do it again
+
+# calculates the execution time of these codes
 print("first code: ", timeit(code1, number=10000))
 print("second code: ", timeit(code2, number=10000))
