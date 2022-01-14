@@ -5,7 +5,8 @@ def multiply(*numbers):
     # [2,3,4,5] -> this is called list
     total = 1
     for number in numbers:
-        total *= number
+        # total *= number
+        total = total * number
     return total
 
 

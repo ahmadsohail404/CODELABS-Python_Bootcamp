@@ -5,7 +5,7 @@
 
 def greet():
     print("Hello! ")
-    print("Welcome aboard")
+    print("Welcome to Codelabs")
 
 
 greet()     # pep8 recommends 2 line breaks for clean code
